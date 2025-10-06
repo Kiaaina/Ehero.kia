@@ -1,9 +1,0 @@
-[((nokia.kia)>@)>?]
-mouse_1=((([0F]>[FF])-5)>@)
-mouse_1=mouse_2
-vac=([8F].[F8] )
-v0=2.4
-v1=v0/(vac)\v0|(monitor_1,monitor_2)
-microphone_audio=vac|(2/128)|(500,50,10):(10,50,500)
-return 1
-
