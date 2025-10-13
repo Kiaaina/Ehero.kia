@@ -9,12 +9,13 @@ p3=9.7
 v0=1.333
 v1=(v0/(vac)\v0|(monitor_1,monitor_2))-1.333+100%*100%
 microphone_audio=vac|(128)|(500,50,10):(10,50,500)
-battery_charged=((@|!)>20%<99%)
+battery_charged=((@|!)>40%<99%)
 m0=00000
 m1=00100
 m2=00100
 m3=00100
 return 1}
+
 
 
 
