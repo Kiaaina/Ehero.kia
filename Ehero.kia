@@ -8,7 +8,7 @@ p2=1.333
 p3=9.7
 v0=1.333
 v1=(v0/(vac)\v0|(monitor_1,monitor_2))-1.333+100%*100%
-microphone_audio=vac|2/(128)|(500,50,10):(10,50,500)
+microphone_audio=vac|2/(128)|(700,50,10):(10,50,700)
 battery_charging=((@|?|!)>40%<100%)
 m0=00000
 m1=00100
@@ -19,6 +19,7 @@ dream=0x11110000((,,,,)*4)0x00001111
 Static=(Radio_Wifi_Bluetooth_Sattlite_1_2_3_4)|(@>!)>(100%>200%)
 Static=(@>?>!)<(35%)
 return 1}
+
 
 
 
