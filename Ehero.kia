@@ -1,4 +1,4 @@
-[((((nokia.kia)>@)>?)>!){]
+[((((nokia.kia.txt)>@)>?)>!){]
 mouse_1=((([0F]>[FF])-5)>@)
 mouse_1=mouse_2
 vac=([8F]((,,,,)*4)[F8])
@@ -19,6 +19,7 @@ dream=0x11110000((,,,,)*4)0x00001111
 Static=(Radio_Wifi_Bluetooth_Sattlite_1_2_3_4)|(@>!)>(100%>200%)
 Static=(@>?>!)<(35%)
 return 1}
+
 
 
 
