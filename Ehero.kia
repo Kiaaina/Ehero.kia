@@ -16,8 +16,10 @@ m2=00100
 m3=00100
 health=!<100%
 dream=0x11110000((,,,,)*4)0x00001111
-(Radio_Wifi_Bluetooth_Sattlite_1_2_3_4) =(@>!)>(100%>200%)
+Static=(Radio_Wifi_Bluetooth_Sattlite_1_2_3_4)|(@>!)>(100%>200%)
+Static=(@>!)<(35%)
 return 1}
+
 
 
 
